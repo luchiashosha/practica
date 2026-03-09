@@ -1,0 +1,25 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+nav {
+  background-color:#ff0080;
+  height:50px;
+  display:flex;
+  justify-content:space-between;
+}
+
+nav a {
+  color:#51ff00;
+  text-decoration:none;
+  margin:auto;
+}
+
+nav a:hover {
+  color:#ff9900;
+}
+  
+.galeria {
+  width:200px;
+}
